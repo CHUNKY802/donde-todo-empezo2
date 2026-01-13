@@ -1,0 +1,20 @@
+{
+  "pokemons": [
+    { "id": 1, "name": "Corazón Rojo", "emoji": "❤️", "type": "Amor", "image": "escuela.jpg", "memory": "Todo comenzó en la escuela… 💕", "hp": 80 },
+    { "id": 2, "name": "Abrazo Infinito", "emoji": "🫂", "type": "Conexión", "image": "salon.jpg", "memory": "Nuestro primer abrazo en el salón de cómputo 💕", "hp": 85 },
+    { "id": 3, "name": "Hogar Cálido", "emoji": "🏠", "type": "Paz", "image": "casa.jpg", "memory": "La primera vez que fui a tu casa", "hp": 75 },
+    { "id": 4, "name": "Guerrero Valiente", "emoji": "⚔️", "type": "Valentía", "image": "taekwondo.jpg", "memory": "Fuiste a verme a mi examen de taekwondo", "hp": 90 },
+    { "id": 5, "name": "Diversión Eterna", "emoji": "🎡", "type": "Felicidad", "image": "feria.jpg", "memory": "Risas infinitas en la feria 🎡", "hp": 78 },
+    { "id": 6, "name": "Misterio Oscuro", "emoji": "🎃", "type": "Magia", "image": "halloween.jpg", "memory": "Halloween juntos 🎃", "hp": 82 },
+    { "id": 7, "name": "Promesa Eterna", "emoji": "💍", "type": "Destino", "image": "boda.jpg", "memory": "Contigo quiero todo 💍", "hp": 95 }
+  ],
+  "levels": [
+    { "image": "escuela.jpg", "text": "Todo comenzó en la escuela…" },
+    { "image": "salon.jpg", "text": "Nuestro primer abrazo en el salón de cómputo 💕" },
+    { "image": "casa.jpg", "text": "La primera vez que fui a tu casa" },
+    { "image": "taekwondo.jpg", "text": "Fuiste a verme a mi examen de taekwondo" },
+    { "image": "feria.jpg", "text": "Risas infinitas en la feria 🎡" },
+    { "image": "halloween.jpg", "text": "Halloween juntos 🎃" },
+    { "image": "boda.jpg", "text": "Contigo quiero todo 💍" }
+  ]
+}
